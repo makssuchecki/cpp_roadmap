@@ -117,3 +117,7 @@ private:
     };
     Holder* ptr;
 };
+
+int main(){
+    return 0;
+}
