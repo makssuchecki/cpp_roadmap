@@ -19,4 +19,10 @@ int main(){
 
     Foo* f = new Foo(1, 2);
     delete f;
+
+    
+    int* arr = new int[10];
+    int* z = new int[10]();
+    delete[] arr;
+    delete[] z;
 }

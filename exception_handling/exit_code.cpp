@@ -16,5 +16,4 @@ int main()
     int result = divide(10, 0);
     std::cout << "Result: " << result << std::endl;
     return 0;
-    
 }

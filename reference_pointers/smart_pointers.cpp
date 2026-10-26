@@ -28,9 +28,11 @@ int main(){
     {
         std::shared_ptr<Entity> e0;
         {
-            std::unique_ptr<Entity> entity = std::make_unique<Entity>();
+            std::unique_ptr<Entity> entity = std::make_unique<Entity>(); // unique pointer
             
-            std::shared_ptr<Entity> sharedEntity = std::make_shared<Entity>();
+            std::shared_ptr<Entity> sharedEntity = std::make_shared<Entity>(); // shared pointer
+
+            std::weak_ptr<Entity> weakEntity = sharedEntity; // weak pointer
 
             e0 = sharedEntity;
             

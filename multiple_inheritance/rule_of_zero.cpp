@@ -26,4 +26,6 @@ int main()
     std::cout << a.name << '\n';
     std::cout << b.name << '\n';
     std::cout << c.name << '\n';
+    return 0;
+
 }
