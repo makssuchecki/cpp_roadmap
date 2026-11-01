@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/Admin/cpp_roadmap/gtest/build/tests[1]_tests.cmake")
+  include("/mnt/c/Users/Admin/cpp_roadmap/gtest/build/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

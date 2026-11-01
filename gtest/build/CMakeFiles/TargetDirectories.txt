@@ -1,0 +1,4 @@
+/mnt/c/Users/Admin/cpp_roadmap/gtest/build/CMakeFiles/tests.dir
+/mnt/c/Users/Admin/cpp_roadmap/gtest/build/CMakeFiles/test.dir
+/mnt/c/Users/Admin/cpp_roadmap/gtest/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/cpp_roadmap/gtest/build/CMakeFiles/rebuild_cache.dir

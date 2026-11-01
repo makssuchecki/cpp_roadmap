@@ -1,0 +1,111 @@
+Start testing: Nov 01 18:40 CET
+----------------------------------------------------------
+1/4 Testing: MathTest.AddsPositive
+1/4 Test: MathTest.AddsPositive
+Command: "/mnt/c/Users/Admin/cpp_roadmap/gtest/build/tests" "--gtest_filter=MathTest.AddsPositive" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Admin/cpp_roadmap/gtest/build
+"MathTest.AddsPositive" start time: Nov 01 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = MathTest.AddsPositive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MathTest
+[ RUN      ] MathTest.AddsPositive
+[       OK ] MathTest.AddsPositive (0 ms)
+[----------] 1 test from MathTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MathTest.AddsPositive" end time: Nov 01 18:40 CET
+"MathTest.AddsPositive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: QueueTest.HasThreeElements
+2/4 Test: QueueTest.HasThreeElements
+Command: "/mnt/c/Users/Admin/cpp_roadmap/gtest/build/tests" "--gtest_filter=QueueTest.HasThreeElements" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Admin/cpp_roadmap/gtest/build
+"QueueTest.HasThreeElements" start time: Nov 01 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = QueueTest.HasThreeElements
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from QueueTest
+[ RUN      ] QueueTest.HasThreeElements
+[       OK ] QueueTest.HasThreeElements (0 ms)
+[----------] 1 test from QueueTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"QueueTest.HasThreeElements" end time: Nov 01 18:40 CET
+"QueueTest.HasThreeElements" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: SinkTest.SubmitsOrder
+3/4 Test: SinkTest.SubmitsOrder
+Command: "/mnt/c/Users/Admin/cpp_roadmap/gtest/build/tests" "--gtest_filter=SinkTest.SubmitsOrder" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Admin/cpp_roadmap/gtest/build
+"SinkTest.SubmitsOrder" start time: Nov 01 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = SinkTest.SubmitsOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SinkTest
+[ RUN      ] SinkTest.SubmitsOrder
+[       OK ] SinkTest.SubmitsOrder (0 ms)
+[----------] 1 test from SinkTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SinkTest.SubmitsOrder" end time: Nov 01 18:40 CET
+"SinkTest.SubmitsOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: SinkTest.OrderOfCalls
+4/4 Test: SinkTest.OrderOfCalls
+Command: "/mnt/c/Users/Admin/cpp_roadmap/gtest/build/tests" "--gtest_filter=SinkTest.OrderOfCalls" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Admin/cpp_roadmap/gtest/build
+"SinkTest.OrderOfCalls" start time: Nov 01 18:40 CET
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = SinkTest.OrderOfCalls
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SinkTest
+[ RUN      ] SinkTest.OrderOfCalls
+[       OK ] SinkTest.OrderOfCalls (0 ms)
+[----------] 1 test from SinkTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SinkTest.OrderOfCalls" end time: Nov 01 18:40 CET
+"SinkTest.OrderOfCalls" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 01 18:40 CET
