@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+f006ca8ae9da2bf2c4f46c37480f728d CMakeFiles/hello_qt_autogen
+f006ca8ae9da2bf2c4f46c37480f728d CMakeFiles/hello_qt_autogen_timestamp_deps
+8ea8e1f530fb597404163435bed7d586 hello_qt_autogen/timestamp

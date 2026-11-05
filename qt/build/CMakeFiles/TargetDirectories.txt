@@ -1,0 +1,5 @@
+/mnt/c/Users/Admin/cpp_roadmap/qt/build/CMakeFiles/hello_qt.dir
+/mnt/c/Users/Admin/cpp_roadmap/qt/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/cpp_roadmap/qt/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Admin/cpp_roadmap/qt/build/CMakeFiles/hello_qt_autogen_timestamp_deps.dir
+/mnt/c/Users/Admin/cpp_roadmap/qt/build/CMakeFiles/hello_qt_autogen.dir
